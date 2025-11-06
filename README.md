@@ -1,2 +1,1 @@
-PRVA VEZBA
-effsdfsdfdssdfsdsdgitsdfsd
+## Vežbe iz git-a
