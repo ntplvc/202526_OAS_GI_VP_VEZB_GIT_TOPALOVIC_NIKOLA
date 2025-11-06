@@ -1,1 +1,1 @@
-print("Pozdrav sa bekenda!")
+print("Ažuriran pozdrav sa bekenda!")
