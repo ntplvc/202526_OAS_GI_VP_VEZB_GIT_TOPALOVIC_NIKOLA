@@ -1,1 +1,1 @@
-print("Drugo ažuriranje pozdrava sa bekenda!");
+print("Ažuriran pozdrav sa bekenda!")

@@ -1,2 +1,1 @@
-
-console.log("Ažuriran pozdrav sa frontenda!");
+onsole.log("Brisanje studenta je implementirano!");
