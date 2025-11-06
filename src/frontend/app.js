@@ -1,1 +1,1 @@
-onsole.log("Brisanje studenta je implementirano!");
+console.log("Brisanje studenta je implementirano!");
