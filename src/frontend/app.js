@@ -1,1 +1,2 @@
-console.log("Pozdrav sa frontenda!");
+
+console.log("Ažuriran pozdrav sa frontenda!");
